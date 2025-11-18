@@ -37,10 +37,10 @@ de dados, além de classes, atributos e métodos para estruturar o sistema.
 
 - `main.py` — CLI principal para cadastrar perfis e gerar recomendações.
 - `models.py` — classes `Profile`, `Competence`, `Career`.
+- `profiles.json` — arquivo gerado para salvar perfis criados.
 - `recommendations.py` — lógica de pontuação e recomendação.
 - `sample_data.py` — exemplos de carreiras com competências requeridas.
-- `profiles.json` — arquivo gerado para salvar perfis criados.
-- `repo_link.txt` — arquivo para inserir o link do GitHub e nomes/RMs para entrega.
+- `README.md` — README do projeto.
 
 ## Como executar
 
