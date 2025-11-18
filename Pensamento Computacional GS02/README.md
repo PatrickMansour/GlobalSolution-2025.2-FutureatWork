@@ -15,11 +15,6 @@ Criamos um sistema em Python orientado a objetos que organiza e análisa perfis 
 - Samir Assad Gonçalves de Souza – RM: 561562
 
 
-Curso: Ciência da Computação — 1º ano
-
-Disciplina: Pensamento Computacional e Automação com Python
-
-Professor: Alexandre Russi Jr.
 
 ## Descrição
 
@@ -65,6 +60,7 @@ python main.py
 	calcula uma porcentagem de compatibilidade (técnico 60% / comportamental 40%).
 - O projeto é intencionalmente simples e focado em demonstrar conceitos de OOP,
 	estruturas de dados e lógica condicional.
+
 
 
 
