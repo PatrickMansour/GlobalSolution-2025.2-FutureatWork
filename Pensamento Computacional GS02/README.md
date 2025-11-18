@@ -3,13 +3,14 @@ Criamos um sistema em Python orientado a objetos que organiza e análisa perfis 
 =======
 # Future at Work — Orientador de Carreiras (Global Solution 2025.2)
 
-Curso: Ciência da Computação — 1º ano
 
 ## Integrantes
 
-- Patrick Mohamed Mansour de Souza – RM: 562970
-- Pietro Mauer Godoy – RM: 564345
-- Samir Assad Gonçalves de Souza – RM: 561562
+Patrick Mohamed Mansour de Souza – RM: 562970
+Pietro Mauer Godoy – RM: 564345
+Samir Assad Gonçalves de Souza – RM: 561562
+
+Curso: Ciência da Computação — 1º ano
 
 Disciplina: Pensamento Computacional e Automação com Python
 
@@ -59,5 +60,6 @@ python main.py
 	calcula uma porcentagem de compatibilidade (técnico 60% / comportamental 40%).
 - O projeto é intencionalmente simples e focado em demonstrar conceitos de OOP,
 	estruturas de dados e lógica condicional.
+
 
 
