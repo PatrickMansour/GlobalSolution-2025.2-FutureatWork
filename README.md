@@ -1,5 +1,5 @@
 # GlobalSolution-2025.2-FutureatWork
-Criamos um sistema em Python orientado a objetos que organiza e análisa perfis profissionais do futuro, simulando uma ferramenta inteligente de orientação de carreiras.
+Criamos um sistema em Python orientado a objetos que organiza e analisa perfis profissionais do futuro, simulando uma ferramenta inteligente de orientação de carreiras.
 =======
 # Future at Work — Orientador de Carreiras (Global Solution 2025.2)
 
