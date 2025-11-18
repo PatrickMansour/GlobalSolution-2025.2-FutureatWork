@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Teste",
+    "technical": {
+      "Python": 4
+    },
+    "behavioral": {
+      "Curiosity": 3
+    }
+  },
+  {
+    "name": "Patrick",
+    "technical": {
+      "Python": 3,
+      "SQL": 2,
+      "Machine Learning": 1,
+      "Statistics": 4,
+      "Cloud": 5,
+      "Scripting": 4,
+      "Design Tools": 3
+    },
+    "behavioral": {
+      "Analytical Thinking": 3,
+      "Creativity": 4,
+      "Collaboration": 3,
+      "Adaptability": 2,
+      "Communication": 1,
+      "Curiosity": 3,
+      "Attention to Detail": 4
+    }
+  }
+]
